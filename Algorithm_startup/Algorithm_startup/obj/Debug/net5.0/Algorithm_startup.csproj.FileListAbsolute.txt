@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\bin\Debug\net5.0\Algorithm_startup.exe
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\bin\Debug\net5.0\Algorithm_startup.deps.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\bin\Debug\net5.0\Algorithm_startup.runtimeconfig.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\bin\Debug\net5.0\Algorithm_startup.runtimeconfig.dev.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\bin\Debug\net5.0\Algorithm_startup.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\bin\Debug\net5.0\ref\Algorithm_startup.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\bin\Debug\net5.0\Algorithm_startup.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\Algorithm_startup.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\Algorithm_startup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\Algorithm_startup.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\Algorithm_startup.AssemblyInfo.cs
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\Algorithm_startup.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\Algorithm_startup.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\ref\Algorithm_startup.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\Algorithm_startup.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_startup\Algorithm_startup\obj\Debug\net5.0\Algorithm_startup.genruntimeconfig.cache
