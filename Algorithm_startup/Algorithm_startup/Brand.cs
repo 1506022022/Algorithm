@@ -19,12 +19,8 @@ namespace Algorithm_startup
             get { return undecidedCount; }
             set 
             {
+                // 카운트는 0 이상이어야 한다
                 undecidedCount = value>=0?value:0;
-
-#if DEBUG
-                if (value < 0)
-                    WriteLine("[Warning] 이미 배정이 끝났습니다.");
-#endif
             }
         }
 
@@ -66,15 +62,18 @@ namespace Algorithm_startup
         }
         
         // 브랜드 이름 <1자> 결정
-        public void Decided(int index,  char value)
+        public void Decided(Choice choice)
         {
+            int index = choice.index;
+            char value = choice.value;
+
             // 브랜드 이름이 결정될 때마다
             // <미정 카운트>를 감소시킨다.
             brandName[index] = value;
             undecidedCount--;
+
         }
 
-#if DEBUG
         // 브랜드 이름 현재상태 출력
         public void WriteBrand()
         {
@@ -82,10 +81,9 @@ namespace Algorithm_startup
             foreach (char n in brandName)
                 Write(n);
 
-            WriteLine("\n[미정 카운트]");
-            WriteLine("{0} 개", undecidedCount);
+            WriteLine();
         }
-#endif
+
 
     }
 }

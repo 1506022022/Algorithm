@@ -8,9 +8,8 @@ namespace Algorithm_startup
     {
         static void Main(string[] args)
         {
-            Brand name = new Brand();
-
-            name.WriteBrand();
+            // 시작
+           Manager manager = new Manager();
         }
     }
 }
