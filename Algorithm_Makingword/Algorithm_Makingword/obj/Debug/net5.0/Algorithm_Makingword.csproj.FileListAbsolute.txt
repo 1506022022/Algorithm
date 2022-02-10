@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\bin\Debug\net5.0\Algorithm_Makingword.exe
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\bin\Debug\net5.0\Algorithm_Makingword.deps.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\bin\Debug\net5.0\Algorithm_Makingword.runtimeconfig.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\bin\Debug\net5.0\Algorithm_Makingword.runtimeconfig.dev.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\bin\Debug\net5.0\Algorithm_Makingword.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\bin\Debug\net5.0\ref\Algorithm_Makingword.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\bin\Debug\net5.0\Algorithm_Makingword.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\Algorithm_Makingword.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\Algorithm_Makingword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\Algorithm_Makingword.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\Algorithm_Makingword.AssemblyInfo.cs
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\Algorithm_Makingword.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\Algorithm_Makingword.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\ref\Algorithm_Makingword.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\Algorithm_Makingword.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_Makingword\Algorithm_Makingword\obj\Debug\net5.0\Algorithm_Makingword.genruntimeconfig.cache
