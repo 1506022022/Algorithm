@@ -334,10 +334,18 @@ namespace Algorithm_KingdomOfBankruptcy
             {
                 // 상대방의 파산일 때
                 case tradeType.bankrupt:
-                    // 상대방이 파산하는게 생존조건인, 타겟이 있는가? => 있으면 유일한 생존이 아님
-                    if (isSurvives(targets, new List<WhoWhat>() { condition }))
+
+                    // 상대방이 파산조건을 충족하는가?
+                    if (input.kingdoms[ (int)condition.Who].debt.Sum(x=>x)<0)
                         return false;
 
+                    // 상대방이 파산하는게 생존조건인, 타겟이 있는가? => 있으면 유일한 생존이 아님
+                    if (isSurvives(targets, new List<WhoWhat>() { condition }))
+                            return false;
+                    
+                   
+                        
+                    
                     // 상대방이 파산해도 유일한 생존일 수는 있지만
                     // 상대방이 파산하는 조건을, 생존 조건으로 가지고 있는 타겟이 없어서
                     // 유일한 생존을 보장하는가? 
