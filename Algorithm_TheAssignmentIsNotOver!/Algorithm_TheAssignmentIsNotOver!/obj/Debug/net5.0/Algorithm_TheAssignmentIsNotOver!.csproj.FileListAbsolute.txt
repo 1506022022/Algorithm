@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\bin\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.exe
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\bin\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.deps.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\bin\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.runtimeconfig.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\bin\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.runtimeconfig.dev.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\bin\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\bin\Debug\net5.0\ref\Algorithm_TheAssignmentIsNotOver!.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\bin\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.AssemblyInfo.cs
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\ref\Algorithm_TheAssignmentIsNotOver!.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_TheAssignmentIsNotOver!\Algorithm_TheAssignmentIsNotOver!\obj\Debug\net5.0\Algorithm_TheAssignmentIsNotOver!.genruntimeconfig.cache
