@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\bin\Debug\net5.0\Algorithm_EscapeTheMovingMaze.exe
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\bin\Debug\net5.0\Algorithm_EscapeTheMovingMaze.deps.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\bin\Debug\net5.0\Algorithm_EscapeTheMovingMaze.runtimeconfig.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\bin\Debug\net5.0\Algorithm_EscapeTheMovingMaze.runtimeconfig.dev.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\bin\Debug\net5.0\Algorithm_EscapeTheMovingMaze.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\bin\Debug\net5.0\ref\Algorithm_EscapeTheMovingMaze.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\bin\Debug\net5.0\Algorithm_EscapeTheMovingMaze.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\Algorithm_EscapeTheMovingMaze.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\Algorithm_EscapeTheMovingMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\Algorithm_EscapeTheMovingMaze.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\Algorithm_EscapeTheMovingMaze.AssemblyInfo.cs
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\Algorithm_EscapeTheMovingMaze.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\Algorithm_EscapeTheMovingMaze.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\ref\Algorithm_EscapeTheMovingMaze.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\Algorithm_EscapeTheMovingMaze.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_EscapeTheMovingMaze\Algorithm_EscapeTheMovingMaze\obj\Debug\net5.0\Algorithm_EscapeTheMovingMaze.genruntimeconfig.cache
