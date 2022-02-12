@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\bin\Debug\net5.0\Algorithm_KingdomOfBankruptcy.exe
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\bin\Debug\net5.0\Algorithm_KingdomOfBankruptcy.deps.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\bin\Debug\net5.0\Algorithm_KingdomOfBankruptcy.runtimeconfig.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\bin\Debug\net5.0\Algorithm_KingdomOfBankruptcy.runtimeconfig.dev.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\bin\Debug\net5.0\Algorithm_KingdomOfBankruptcy.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\bin\Debug\net5.0\ref\Algorithm_KingdomOfBankruptcy.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\bin\Debug\net5.0\Algorithm_KingdomOfBankruptcy.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\Algorithm_KingdomOfBankruptcy.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\Algorithm_KingdomOfBankruptcy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\Algorithm_KingdomOfBankruptcy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\Algorithm_KingdomOfBankruptcy.AssemblyInfo.cs
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\Algorithm_KingdomOfBankruptcy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\Algorithm_KingdomOfBankruptcy.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\ref\Algorithm_KingdomOfBankruptcy.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\Algorithm_KingdomOfBankruptcy.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_KingdomOfBankruptcy\Algorithm_KingdomOfBankruptcy\obj\Debug\net5.0\Algorithm_KingdomOfBankruptcy.genruntimeconfig.cache
