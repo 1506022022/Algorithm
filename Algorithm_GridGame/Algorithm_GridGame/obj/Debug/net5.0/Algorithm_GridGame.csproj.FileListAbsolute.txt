@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\bin\Debug\net5.0\Algorithm_GridGame.exe
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\bin\Debug\net5.0\Algorithm_GridGame.deps.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\bin\Debug\net5.0\Algorithm_GridGame.runtimeconfig.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\bin\Debug\net5.0\Algorithm_GridGame.runtimeconfig.dev.json
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\bin\Debug\net5.0\Algorithm_GridGame.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\bin\Debug\net5.0\ref\Algorithm_GridGame.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\bin\Debug\net5.0\Algorithm_GridGame.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\Algorithm_GridGame.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\Algorithm_GridGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\Algorithm_GridGame.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\Algorithm_GridGame.AssemblyInfo.cs
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\Algorithm_GridGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\Algorithm_GridGame.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\ref\Algorithm_GridGame.dll
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\Algorithm_GridGame.pdb
+C:\Users\user\source\repos\1506022022\Algorithm\Algorithm_GridGame\Algorithm_GridGame\obj\Debug\net5.0\Algorithm_GridGame.genruntimeconfig.cache
